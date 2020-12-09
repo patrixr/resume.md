@@ -1,4 +1,4 @@
-<!-- @theme high-contrast -->
+<!-- @theme foghorn -->
 
 John Doe
 ======
