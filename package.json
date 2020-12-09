@@ -1,0 +1,22 @@
+{
+  "name": "markdown-resume",
+  "version": "1.0.0",
+  "description": "The simplest possible resume workflow from markdown source.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "dev": "gulp serve",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "live-server": "^1.2.1",
+    "md-to-pdf": "^3.1.2",
+    "mkdirp": "^1.0.4",
+    "node-sass": "^5.0.0"
+  }
+}
