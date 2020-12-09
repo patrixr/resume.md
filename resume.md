@@ -1,4 +1,4 @@
-<!-- @theme foghorn -->
+<!-- @theme high-contrast -->
 
 John Doe
 ======
@@ -30,9 +30,11 @@ Experience
 - Developed code to complete assigned project by deadline
 - Developed HTML, CSS, JavaScript, and JSP pages for user interaction
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+**Crane & Jenkins, Software Engineer** (2011-2012, Stockholm)
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- Integrate code changes, test code changes, and document code changes
+- Developed Perl and PHP scripts to translate data between applications
+- Developed automation scripts to test storage appliances in Python
 
 Skills
 ------
